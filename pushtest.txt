@@ -1,3 +1,0 @@
-This is a test file for pushing to HitHub.
-https://github.com/mhykl/image-processing-100knock
-さらに文章追加、再プッシュしてみる
